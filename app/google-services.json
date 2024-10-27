@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145783080901",
+    "project_id": "proyectofirebase-50c16",
+    "storage_bucket": "proyectofirebase-50c16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145783080901:android:05cfbe3c655a2fcaab6dac",
+        "android_client_info": {
+          "package_name": "com.marvingudiel.login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuikY0Fs4FzFv9nglcUsoXXah_1du0-jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
